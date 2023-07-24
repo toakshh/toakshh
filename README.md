@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @toakshh
-- 👀 I’m interested in CyberSecurity, Programming ,Astronomy
+- 👀 I’m interested in CyberSecurity, Programming , Cosmology
 - 🌱 I’m currently practising Python + MERN Stack
-- 💞️ I’m open to collaborations.
+- 💞️ Open for collaborations.
 
