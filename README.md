@@ -1,21 +1,25 @@
-<h1 align="center">Hi 👋, I'm Akshat Anand</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Akshat Anand
+====================================================================================================================================
+
+Web developer | MERN stack
+--------------------------
+
+A passionate learner currently pursuing MERN Stack development. Hands-on experience in React through several projects. Though my major was English literature, my passion for web development pulled me towards the field. Dedicated to learn and apply new technologies to build innovative and user-friendly applications.
+
+* 🌍  I'm based in India.
+* 🖥️  See my portfolio at [Resume :-](http://](https://drive.google.com/drive/u/0/my-drive)
+* ✉️  You can contact me at [akshnnd@gmail.com](mailto:akshnnd@gmail.com)
+* 🧠  I'm learning NEXT js
+* 🤝  I'm open to collaborating on Front-end projects
+* 💬  Talk to me about **React, Framer Motion, JavaScript, CyberSecurity, Cosmos.**
+* ⚡  I'm a space enthusiast as well. We can exchange our theories on creation of the universe.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toakshh&label=Profile%20views&color=0e75b6&style=flat" alt="toakshh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toakshh" alt="toakshh" /></a> </p>
 
-- 🔭 I’m currently working on **MERN stack.**
-
-- 🌱 I’m currently learning **NEXT JS**
-
-- 👯 I’m looking to collaborate on **React projects.**
-
-- 💬 Ask me about **react, Framer Motion, JavaScript, CyberSecurity, Cosmos**
-
-- 📫 How to reach me **akshnnd@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3 align="left">Connect with me:</h3>
