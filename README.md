@@ -8,7 +8,7 @@ Web developer | MERN stack
 A passionate learner currently pursuing MERN Stack development. Hands-on experience in React through several projects. Though my major was English literature, my passion for web development pulled me towards the field. Dedicated to learn and apply new technologies to build innovative and user-friendly applications.
 
 * 🌍  I'm based in India.
-* 🖥️  See my portfolio at https://portfolio-akshat.vercel.app
+* 🖥️  See my portfolio at https://portfolio-toakshh.vercel.app
 * ✉️  You can contact me at [akshnnd@gmail.com](mailto:akshnnd@gmail.com)
 * 🧠  I'm learning NEXT js
 * 🤝  I'm open to collaborating on Front-end projects
