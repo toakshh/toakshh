@@ -13,7 +13,7 @@ A passionate learner currently pursuing MERN Stack development. Hands-on experie
 * 🧠  I'm learning NEXT js
 * 🤝  I'm open to collaborating on Front-end projects
 * 💬  Talk to me about **React, Framer Motion, JavaScript, CyberSecurity, Cosmos.**
-* ⚡  I'm a space enthusiast as well. We can exchange our theories on creation of the universe.
+* ⚡  I'm a space enthusiast as well. We can exchange our theories on the creation of universe.
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toakshh&label=Profile%20views&color=0e75b6&style=flat" alt="toakshh" /> </p>
