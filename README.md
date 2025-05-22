@@ -8,11 +8,11 @@ Web developer | MERN stack
 A passionate learner currently pursuing MERN Stack development. Hands-on experience in React through several projects. Though my major was English literature, my passion for web development pulled me towards the field. Dedicated to learn and apply new technologies to build innovative and user-friendly applications.
 
 * 🌍  I'm based in India.
-* 🖥️  See my portfolio at https://portfolio-toakshh.vercel.app
+* 🖥️  See my portfolio at https://toakshh-portfolio.vercel.app
 * ✉️  You can contact me at [akshnnd@gmail.com](mailto:akshnnd@gmail.com)
-* 🧠  I'm learning NEXT js
-* 🤝  I'm open to collaborating on Front-end projects
-* 💬  Talk to me about **React, Framer Motion, JavaScript, CyberSecurity, Cosmos.**
+* 🧠  Trying to learn a lot of things... (feel free to help me in that)
+* 🤝  I'm open to collaborating on Front-end or backend projects
+* 💬  Talk to me about **something i know or something i don't know**
 * ⚡  I'm a space enthusiast as well. We can exchange our theories on the creation of universe.
 
 
